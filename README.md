@@ -4,5 +4,6 @@ This repository contains simple projects I made while learning Spring Boot from 
 - Building RESTful APIs
 - Developing user registration and login functionalities using Spring Boot security
 - Applying email verification system for new users
+- Performing unit and integration testing
 
 
